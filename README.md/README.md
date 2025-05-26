@@ -164,39 +164,40 @@ Normalized data improves ML model training performance. However, unnormalized da
 
 ## 📦 Project Structure
 
-Time Series Analysis of Bitcoin and Ethereum/
+Time-Series-Analysis-of-Bitcoin-and-Ethereum/
 ├── dashboard/
-│ └── app.py
+│   └── app.py
 ├── data/
-│ ├── bitcoin_data.xlsx
-│ ├── bitcoin_normalized.xlsx
-│ ├── bitcoin_unnormalized.xlsx
-│ ├── ethereum_data.xlsx
-│ ├── ethereum_normalized.xlsx
-│ ├── ethereum_unnormalized.xlsx
-│ ├── btc_with_sentiment.csv
-│ └── eth_with_sentiment.csv
+│   ├── bitcoin_data.xlsx
+│   ├── bitcoin_normalized.xlsx
+│   ├── bitcoin_unnormalized.xlsx
+│   ├── ethereum_data.xlsx
+│   ├── ethereum_normalized.xlsx
+│   ├── ethereum_unnormalized.xlsx
+│   ├── btc_with_sentiment.csv
+│   └── eth_with_sentiment.csv
 ├── models/
-│ ├── rf_btc_model.pkl
-│ └── rf_eth_model.pkl
+│   ├── rf_btc_model.pkl
+│   └── rf_eth_model.pkl
 ├── notebooks/
-│ ├── Data_Acquisition_and_Preprocessing.ipynb
-│ ├── Time_Series_Analysis_of_Bitcoin.ipynb
-│ ├── Time_Series_Analysis_of_Ethereum.ipynb
-│ └── Market_Sentiment_Analysis_for_BTC_and_ETH.ipynb
+│   ├── Data_Acquisition_and_Preprocessing.ipynb
+│   ├── Time_Series_Analysis_of_Bitcoin.ipynb
+│   ├── Time_Series_Analysis_of_Ethereum.ipynb
+│   └── Market_Sentiment_Analysis_for_BTC_and_ETH.ipynb
 ├── dashboard preview/
-│ ├── dashboard_btc_initial_view.png
-│ ├── dashboard_btc_sentiment_improving_2016.png
-│ ├── dashboard_btc_sentiment_steady_consolidate_2016.png
-│ ├── dashboard_btc_sentiment_weakening_2016.png
-│ ├── dashboard_date_selection.png
-│ ├── dashboard_eth_crypto_dropdown_open.png
-│ ├── dashboard_eth_initial_view.png
-│ ├── dashboard_eth_sentiment_filtered.png
-│ ├── dashboard_eth_sentiment_improving.png
-│ └── dashboard_eth_sentiment_weakening.png
+│   ├── dashboard_btc_initial_view.png
+│   ├── dashboard_btc_sentiment_improving_2016.png
+│   ├── dashboard_btc_sentiment_steady_consolidate_2016.png
+│   ├── dashboard_btc_sentiment_weakening_2016.png
+│   ├── dashboard_date_selection.png
+│   ├── dashboard_eth_crypto_dropdown_open.png
+│   ├── dashboard_eth_initial_view.png
+│   ├── dashboard_eth_sentiment_filtered.png
+│   ├── dashboard_eth_sentiment_improving.png
+│   └── dashboard_eth_sentiment_weakening.png
 ├── requirements.txt
 └── README.md
+
 
 ---
 
