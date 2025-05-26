@@ -1,0 +1,36 @@
+1. Core Libraries
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+joblib
+os
+dateparser
+
+2. Time Series & Forecasting
+
+statsmodels
+prophet
+pmdarima
+xgboost
+tensorflow
+keras
+torch
+
+3. NLP & Sentiment Analysis
+
+nltk
+vaderSentiment
+
+4. Data APIs & Requests
+
+yfinance
+requests
+
+5. Dashboard & Visualization
+
+dash
+dash-bootstrap-components
+plotly
