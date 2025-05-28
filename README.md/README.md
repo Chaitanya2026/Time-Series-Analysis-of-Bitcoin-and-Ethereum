@@ -162,10 +162,23 @@ Normalized data improves ML model training performance. However, unnormalized da
 
 ---
 
+🟣 Power BI Dashboard
+This Power BI dashboard offers advanced visual insights for BTC and ETH, including price action, sentiment scores, and volatility patterns.
+
+📂 Power BI dashboard — contains:
+
+dashboard_btc.png
+
+dashboard_eth.png
+
+🗂️ Power BI file
+Download the Power BI file used to generate the above visuals:
+
+📄 Bitcoin and Ethereum.pbix
+
 ## 🚀 Future Scope
 
 - Integration with live Twitter API for real-time sentiment updates  
-- Power BI dashboard connection (for corporate reporting)  
 - Enhanced explainability with SHAP/feature importance visualizations  
 - Model retraining with live feedback loop  
 
